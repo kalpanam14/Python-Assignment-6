@@ -17,7 +17,7 @@ class JackRussellTerrier(Dog):
 
     def bark(self,sound):
         self.sound = sound
-        print(f"name : {self.sound}")
+        print(f"Sound : {self.sound}")
 
     def height(self,height):
         self.height = height
@@ -27,7 +27,7 @@ class Bulldog(Dog):
 
     def bark(self,sound):
         self.sound = sound
-        return f"name : {self.name} \Age : {self.age}"
+        print(f"Sound : {self.sound}")
 
     def height(self,length):
         self.length = length
