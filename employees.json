@@ -1,0 +1,39 @@
+{
+    "employees": [
+    {
+        "name" : "kalpana",
+        "dob"  : "14-09-1992",
+        "Height" : "5.6",
+        "city" : "Bangalore",
+        "state" : "Karnataka"
+    },
+        {
+        "name" : "Moni",
+        "dob"  : "12-05-1999",
+        "Height" : "5.9",
+        "city" : "Chennai",
+        "state" : "TamilNadu"
+    },
+        {
+        "name" : "sharmi",
+        "dob"  : "18-092-1990",
+        "Height" : "6.6",
+        "city" : "Bangalore",
+        "state" : "Karnataka"
+        },
+        {
+        "name" : "ram",
+        "dob"  : "05-08-1999",
+        "Height" : "5.6",
+        "city" : "Hydrebad",
+        "state" : "Telangana"
+        },
+        {
+        "name" : "Sam",
+        "dob"  : "14-05-1998",
+        "Height" : "5.2",
+        "city" : "Bangalore",
+        "state" : "Karnataka"
+        }
+    ]
+}
